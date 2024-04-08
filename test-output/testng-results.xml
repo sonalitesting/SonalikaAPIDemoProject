@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-21T23:02:21 IST" name="Default suite" finished-at="2024-03-21T23:02:27 IST" duration-ms="6324">
+    <groups>
+    </groups>
+    <test started-at="2024-03-21T23:02:21 IST" name="Default test" finished-at="2024-03-21T23:02:27 IST" duration-ms="6324">
+      <class name="OAuth">
+        <test-method signature="clientCred()[pri:0, instance:OAuth@27f981c6]" started-at="2024-03-21T23:02:21 IST" name="clientCred" finished-at="2024-03-21T23:02:27 IST" duration-ms="6267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clientCred -->
+      </class> <!-- OAuth -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
